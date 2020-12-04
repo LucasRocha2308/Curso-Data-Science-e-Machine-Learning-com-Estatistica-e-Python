@@ -1,1 +1,1 @@
-# Curso-Data-Science-e-Machine-Learning-com-Estat-stica-e-Python
+# Curso-Data-Science-e-Machine-Learning-com-Estatistica-e-Python
